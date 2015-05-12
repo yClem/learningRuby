@@ -16,5 +16,5 @@ frequencies.each { |word, frequency| puts word + " " + frequency.to_s }
 end
 
 
-puts wordCount("Good to go Good")
+puts wordCount("Good to go Good Ok it Working")
 
